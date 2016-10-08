@@ -1,6 +1,5 @@
-# scopus-journals
+# Scopus Journals
 
 All Scopus journals 2015     
 
-
-https://octopub.io/datasets
+Octopub datasets: https://octopub.io/datasets
